@@ -3,11 +3,11 @@ const person = {
     age : 21,
     display ()
     {
-        console.log('Hi, I am '+this.name);
+        console.log(this.name);
     },
-  //  Anand : 'Username'
+    Anand : 'Username'
 };
 
-person.display();
-console.log(person.name);
-// console.log(person.display());
+Name= person.display();
+// console.log(person.name);
+ console.log(person.Name);
