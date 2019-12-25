@@ -1,0 +1,19 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "Getting started with the node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandhere8/nodejs.git"
+  },
+  "author": "Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandhere8/nodejs/issues"
+  },
+  "homepage": "https://github.com/anandhere8/nodejs#readme"
+}
