@@ -16,6 +16,10 @@ app.get('/about',(req,res)=>{
     res.send('This is about section');
 });
 
+app.get('/hike',(res,req)=>{
+    res.send('This is hike');
+});
+
 app.listen(3000,()=>{
     console.log("Server is running");
 });
